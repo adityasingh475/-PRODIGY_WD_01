@@ -12,6 +12,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-blueviolet?style=for-the-badge)
+### 🌐 Live Demo
+🔗 https://wonderful-platypus-44ea94.netlify.app/
+
+### 💻 GitHub Repository
+🔗 https://github.com/adityasingh475/-PRODIGY_WD_01
 
 </div>
 
