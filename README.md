@@ -100,13 +100,7 @@ PRODIGY_WD_01
 
 ---
 
-# 🌐 Live Demo
 
-> Add your deployed website link here.
-
-```text
-https://your-live-demo-link.netlify.app
-```
 
 ---
 
